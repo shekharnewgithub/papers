@@ -6,5 +6,4 @@ This is fifth sentence.
 we should reference [smith & co].
 The results are amzing.
 Lots of beutiful flower.
-We live in cool places.
-
+The weather is awesome.
